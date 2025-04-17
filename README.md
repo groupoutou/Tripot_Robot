@@ -1,10 +1,10 @@
 # Tripot_Robot
 
 pour traviller sur le projet :
-allez dans un repertoire ex D: 
-puis $git clone 
-puis $git add .
-puis $git commit -m commentaire
+allez dans un repertoire ex D: \n
+puis $git clone \n
+puis $git add . \n
+puis $git commit -m commentaire \n
 puis $git push
 
 
